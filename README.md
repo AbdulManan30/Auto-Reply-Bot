@@ -45,20 +45,19 @@ This bot uses pyautogui, so screen resolution and mouse positions must be calibr
 Ensure Brave browser is open and focused on the chat window.
 This bot only works on Linux due to use of wmctrl.
 GitHub push protection is enabled to block secrets.
-
-📦 Dependencies
 <br/>
+📦 Dependencies
 <div>pyautogui</div>
 <div>pyperclip</div>
 <div>subprocess</div>
 <div>Groq API (via custom groqAi.py)</div>
-
+<br/>
 🧪 Example Response
-<p>Last Message: [3:12 pm, 20/06/2025] Ammar: Bro, my CNIC got rejected 😂</p>
-<p>AI Response: Are you trying to verify your CNIC or applying to NASA? 😂</p>
-
+<div>Last Message: [3:12 pm, 20/06/2025] Ammar: Bro, my CNIC got rejected 😂</div>
+<div>AI Response: Are you trying to verify your CNIC or applying to NASA? 😂</div>
+<br/>
 🙋‍♂️ Author
-<h4>Abdul Manan</h4>
+<div>Abdul Manan</div>
 <div>Front-end Developer | Python Automation Enthusiast</div>
 <div>📍 Karachi, Pakistan</div>
 <div>📧 abdul.manan232332@gmail.com</div>
