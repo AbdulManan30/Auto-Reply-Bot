@@ -2,7 +2,7 @@ import pyautogui
 import pyperclip
 import subprocess
 import time
-from groqAi import groqAi
+from groq import groqAi
 
 
 def is_last_message_from_other_user(chat_history: str) -> bool:
