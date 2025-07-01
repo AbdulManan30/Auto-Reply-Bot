@@ -46,11 +46,13 @@ Ensure Brave browser is open and focused on the chat window.
 This bot only works on Linux due to use of wmctrl.
 GitHub push protection is enabled to block secrets.
 <br/>
+
 📦 Dependencies
 <div>pyautogui</div>
 <div>pyperclip</div>
 <div>subprocess</div>
 <div>Groq API (via custom groqAi.py)</div>
+
 <br/>
 🧪 Example Response
 <div>Last Message: [3:12 pm, 20/06/2025] Ammar: Bro, my CNIC got rejected 😂</div>
