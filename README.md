@@ -40,6 +40,7 @@ source myenv/bin/activate
 pip install -r requirements.txt
 
 🔐 Important Notes
+<hr/>
 This bot uses pyautogui, so screen resolution and mouse positions must be calibrated.
 Ensure Brave browser is open and focused on the chat window.
 This bot only works on Linux due to use of wmctrl.
