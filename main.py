@@ -12,7 +12,7 @@ def is_last_message_from_other_user(chat_history: str) -> bool:
     try:
         # Split properly and clean whitespace
         senderName = last_line.split("]")[1].split(":")[0].strip()
-        print(f"📌 Sender Detected: '{senderName}'")
+        print(f"Sender Detected: '{senderName}'")
         return senderName != "Abdul Manan"  # Replace with your name
     except IndexError:
         print("Could not extract sender from:", last_line)
