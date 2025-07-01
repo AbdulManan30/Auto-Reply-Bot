@@ -40,27 +40,28 @@ source myenv/bin/activate
 pip install -r requirements.txt
 
 🔐 Important Notes
-<hr/>
+<br/>
 This bot uses pyautogui, so screen resolution and mouse positions must be calibrated.
 Ensure Brave browser is open and focused on the chat window.
 This bot only works on Linux due to use of wmctrl.
 GitHub push protection is enabled to block secrets.
 
 📦 Dependencies
-pyautogui
-pyperclip
-subprocess
-Groq API (via custom groqAi.py)
+<br/>
+<div>pyautogui</div>
+<div>pyperclip</div>
+<div>subprocess</div>
+<div>Groq API (via custom groqAi.py)</div>
 
 🧪 Example Response
-Last Message: [3:12 pm, 20/06/2025] Ammar: Bro, my CNIC got rejected 😂
-AI Response: Are you trying to verify your CNIC or applying to NASA? 😂
+<p>Last Message: [3:12 pm, 20/06/2025] Ammar: Bro, my CNIC got rejected 😂</p>
+<p>AI Response: Are you trying to verify your CNIC or applying to NASA? 😂</p>
 
 🙋‍♂️ Author
-Abdul Manan
-Front-end Developer | Python Automation Enthusiast
-📍 Karachi, Pakistan
-📧 abdul.manan232332@gmail.com
-🔗 abdul-manan.vercel.app
+<h4>Abdul Manan</h4>
+<div>Front-end Developer | Python Automation Enthusiast</div>
+<div>📍 Karachi, Pakistan</div>
+<div>📧 abdul.manan232332@gmail.com</div>
+<div>🔗 abdul-manan.vercel.app</div>
 
 
