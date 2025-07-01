@@ -1,12 +1,12 @@
 # 🤖 Auto-Reply-Bot
 
-An automated browser-based bot that reads chat from Brave browser, uses Groq AI to generate a witty reply, and pastes the response automatically. The bot speaks like Abdul Manan — a sarcastic coder from Pakistan — and roasts people in a funny and natural way.
+An automated browser-based bot that reads chat from any browser, uses Groq AI to generate a witty reply, and pastes the response automatically. The bot speaks like Abdul Manan — a sarcastic coder from Pakistan — and roasts people in a funny and natural way.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Reads chat from Brave browser (via screen selection)
+- ✅ Reads chat from any browser (via screen selection)
 - 🤖 Uses Groq AI to analyze and reply to last message
 - 🔥 Generates humorous, roast-style responses
 - 🧠 Only replies if the last message is NOT from Abdul Manan
@@ -17,7 +17,7 @@ An automated browser-based bot that reads chat from Brave browser, uses Groq AI 
 
 ## 🧠 How It Works
 
-1. Focuses Brave browser using `wmctrl`
+1. Focuses any browser using `wmctrl`
 2. Selects a portion of the screen containing chat
 3. Copies text using `pyautogui`
 4. Extracts the last message and checks the sender
